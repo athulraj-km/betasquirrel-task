@@ -6,13 +6,13 @@ Betasquirrel assignments
 
 | Requrements                 | Output                       |
 | --------------------------- | ---------------------------- |
-| ![task 1](images/req-1.jpg) | ![Task 1](images/task-1.png) |
+| ![task 1](images/task1.jpg) | ![Task 1](images/task-1.png) |
 
 ### **Second task**
 
 | Requrements                 | Output                       |
 | --------------------------- | ---------------------------- |
-| ![task 2](images/req-2.jpg) | ![Task 2](images/task-2.png) |
+| ![task 2](images/task2.jpg) | ![Task 2](images/task-2.png) |
 
 ### **Task 3**
 
@@ -40,7 +40,7 @@ Betasquirrel assignments
 
 | Requrements                 | Output                       |
 | --------------------------- | ---------------------------- |
-| ![task 4](images/req-3.jpg) | ![Task 4](images/task-4.png) |
+| ![task 4](images/task4.jpg) | ![Task 4](images/task-4.png) |
 
 ### **Linux Commands**
 
